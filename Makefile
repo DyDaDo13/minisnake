@@ -4,7 +4,7 @@ NAME	= minisnake
 
 #---------	FUNCTIONS -----------
 #───────────────────────────────╲
-FUNC	= minisnake.c ft_atoi.c inits.c prints.c \
+FUNC	= minisnake.c ft_atoi.c inits.c prints.c free_all.c\
 #───────────────────────────────╱
 
 #┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
